@@ -12,7 +12,6 @@
 
 >- Data Set: FD001 ==> Train trjectories: 100, Test trajectories: 100, Conditions: ONE (Sea Level), Fault Modes: ONE (HPC Degradation)
 
->- Data Set: FD002 ==> Train trjectories: 260, Test trajectories: 259, Conditions: SIX, Fault Modes: ONE (HPC Degradation)
 
 
 
